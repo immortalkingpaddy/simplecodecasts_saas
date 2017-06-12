@@ -1,2 +1,2 @@
 
-* This change is made from VS code
+* This change is made
