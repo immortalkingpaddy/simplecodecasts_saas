@@ -1,6 +1,6 @@
 class NewTable < ActiveRecord::Migration[5.1]
   def change
-    create_table :contacts do |t|
+    create_table :NewFileChange do |t|
       t.string :name
       t.string :email
       t.text :comments
