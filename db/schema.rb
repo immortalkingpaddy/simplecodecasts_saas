@@ -10,6 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
+<<<<<<< HEAD
 ActiveRecord::Schema.define(version: 20170627055215) do
 
   create_table "contacts", force: :cascade do |t|
@@ -18,6 +19,15 @@ ActiveRecord::Schema.define(version: 20170627055215) do
     t.string "comments"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+=======
+<<<<<<< HEAD
+ActiveRecord::Schema.define(version: 20170626112957) do
+=======
+ActiveRecord::Schema.define(version: 20170621055320) do
+>>>>>>> d3e386659466495cb68d0f21b7cef9b32dd8ff30
+
+  create_table "contacts", force: :cascade do |t|
+>>>>>>> 24a7866793271d3f4c6022e4dbeb57144dc92e61
   end
 
 end
