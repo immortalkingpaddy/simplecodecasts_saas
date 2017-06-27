@@ -1,4 +1,4 @@
-class ChangesController < Application
+class NewFileChangesController < Application
     def new 
         @newfilechanges =newfilechanges.new
     end
