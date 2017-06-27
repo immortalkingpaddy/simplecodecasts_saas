@@ -1,4 +1,4 @@
-class New < ActiveRecord::Base
+class NewFileChanges < ActiveRecord::Base
 
 
 end
