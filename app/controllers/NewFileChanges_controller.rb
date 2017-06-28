@@ -1,6 +1,6 @@
 class NewFileChangesController < ApplicationController
     def new 
-        @NewFileChanges = newfilechanges.new
+        @NewFileChanges = newfilechange.new
     end
     
     def create
